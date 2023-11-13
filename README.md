@@ -6,7 +6,7 @@ This Python script extracts content from a list of URLs specified in a CSV file 
 
 ## Requirements
 
-- [Python](https://www.python.org/) (version x.x.x)
+- [Python](https://www.python.org/)
 - [pandas](https://pandas.pydata.org/)
 - [requests](https://docs.python-requests.org/en/latest/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
