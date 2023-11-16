@@ -22,7 +22,7 @@ This Python script extracts content from a list of URLs specified in a CSV file 
 2. Run the script:
 
    ```bash
-   python extract_content.py
+   python extract.py
 
 ## Notes
 The script looks for content in specific HTML elements, such as `div` with classes `td-post-content tagdiv-type` or `tdb-block-inner td-fix-index`.
